@@ -68,7 +68,7 @@ punc
 art
 sim
 """
-g = open("poetry_wordlist2", 'w')
+g = open("poetry_wordlist", 'w')
 g.write("<adj>\n")
 for k in adjectives:
     g.write(k+"\n")

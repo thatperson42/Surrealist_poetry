@@ -1,0 +1,9 @@
+This contains a list of word generator, dictmaker.py, to work with
+mrshanahan's surrealist poetry generator:
+
+https://github.com/mrshanahan/surrealist_poetry
+
+It also contains the dictionary that gets created on my system running the
+program (the program takes about 25 seconds on my computer).
+
+dict_location has to be modified in dictmaker.py depending on the system.
